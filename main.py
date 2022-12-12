@@ -7,7 +7,6 @@ from docx import Document
 import re
 import csv
 
-
 class doc_analyzer(object):
     def __init__(self, _dir):
         self.files = []
