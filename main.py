@@ -1,5 +1,5 @@
 # !/usr/local/bin/python3.8
-# -*- coding: utf8 -*-
+# -*- coding: utff8 -*-
 
 import os
 import sqlite3
